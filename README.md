@@ -1,5 +1,3 @@
-Ola
-
 Pedro Henrique Padilha Guth
 
 Estudante de Ciência da Computação
