@@ -1,16 +1,28 @@
-## Hi there 👋
+Ola
 
-<!--
-**Peeedry/Peeedry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pedro Henrique Padilha Guth
 
-Here are some ideas to get you started:
+Estudante de Ciência da Computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mim
+---------
+Sou estudante de Ciência da Computação interessado em desenvolvimento
+de software, bancos de dados e cloud computing.
+
+Tecnologias
+-----------
+Java • Python • SQL • Git • GitHub • HTML • CSS • JavaScript
+
+Projetos
+--------
+🚍 Uniride
+☁️ Cloud Migration
+📚 Java POO
+🎮 Clicker Game
+
+Atualmente estudando
+--------------------
+Java
+Estruturas de Dados
+Banco de Dados
+Cloud Computing
